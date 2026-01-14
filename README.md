@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Nguyễn Thành An**
+I'm **Will NGuyen**
 
 🎓 **Bachelor of Computer Science** — Ho Chi Minh City University of Technology (HCMUT)  
 💻 Interested in software development and modern technologies  
